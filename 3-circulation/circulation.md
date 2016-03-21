@@ -76,4 +76,5 @@ The following policies apply to JIT account creation:
 
 ## Patron Complaints
 If a patron has a complaint, in order for the complaint to be valid, they have to give you their name and C#.  Refer this information to the appropriate Assistant Director at the campus involved.  If necessary, they will contact the Director.  
+
 If front line staff is not successful in resolving patron complaints, complaint should be directed to the Assistant Director.  
