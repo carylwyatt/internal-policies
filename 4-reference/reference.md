@@ -21,3 +21,6 @@ The Ivy Tech Central Indiana Campus Libraries respond to all requests for refere
 - Reference Level 1: e.g., where is a book about this topic located, what database for this topic? < 5 min. 
 - Reference Level 2: e.g., overview of library website, database help, research assistance of > 5 minutes 
 - Consultation: extensive research assistance, reference appointments
+
+## Chat and LibAnswers
+See the [Virtual Reference Policies and Procedures Guide](http://libguides.ivytech.edu/c.php?g=408648&p=2783849)
