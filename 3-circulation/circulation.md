@@ -1,7 +1,17 @@
 # Circulation
 
-## Mobile Devices
+## General
+### Student IDs
 
+If students want to check out books but do not have IDs, they may use their driver's license one time.  Once they use their driver's license, make a note of the date they used it in a Pop-up window in Voyager, with your initials.
+
+### General Collection Checkout
+
+Students may check out up to 10 books at a time.  The total number of books they may have checked out at any time is 10.
+
+2 week Checkout period:
+- Can be renewed a maximum of 4 times
+- Cannot be returned and immediately checked out again by same patron
 
 ## Fines and Fees
 Based on patron type - **student**, item type - **book**
@@ -10,6 +20,13 @@ Based on patron type - **student**, item type - **book**
 | ------------------------------ | ----------------------------------- | -------------------------- | ----------------------------- |
 | No overdue fee (grace period) | $3 overdue fee posts when returned | $5 processing plus cost of book posts, $3 overdue fee **does not** post | $5 remains on bill, Cost of book removed manually unless replacement copy has been ordered |
 | Total = $0 | Total = $3 | Total = Cost of book + $5 | Total = $5 |
+
+## Textbooks/Reserves
+- 15 minute grace period before fines begin
+- Initial fine is 5¢ per minute or $3.00 per hour.
+- Textbook late 2 - 7 days: Fine will be $50.00.
+- Textbook late day 8+: Fine will be $100.00 or cost of book.
+- Student loses /damages textbook: Replacement cost will be 100% cost of book + $5 processing fee.
 
 ## Interlibrary Loans
 Books and journal articles not available in our library may be ordered from other libraries. The delivery time varies depending on which library has the book:
@@ -35,14 +52,8 @@ Books and journal articles not available in our library may be ordered from othe
 
 * All books borrowed from other libraries for Ivy Tech Central Indiana students will have the due date determined by the lending library.
 
-## Textbooks/Reserves
-- 15 minute grace period before fines begin
-- Initial fine is 5¢ per minute or $3.00 per hour.
-- Textbook late 2 - 7 days: Fine will be $50.00.
-- Textbook late day 8+: Fine will be $100.00 or cost of book.
-- Student loses /damages textbook: Replacement cost will be 100% cost of book + $5 processing fee.
-
-## General Collection
+## Mobile Devices
+*Link to procedure here??*
 
 ## Just in Time Accounts
 Just in time accounts (JITA) are guest accounts for the Active Directory System. They non-students a username and password to log into campus computers with.  JITA accounts have no printing privileges.
@@ -61,5 +72,8 @@ The following policies apply to JIT account creation:
 
 **NOTE:**  It can take the system up to 15 minutes to activate the account once it is created.
 
+[Community Computer Use Policy](http://library.ivytech.edu/c.php?g=399021&p=2718243)
+
 ## Patron Complaints
 If a patron has a complaint, in order for the complaint to be valid, they have to give you their name and C#.  Refer this information to the appropriate Assistant Director at the campus involved.  If necessary, they will contact the Director.  
+If front line staff is not successful in resolving patron complaints, complaint should be directed to the Assistant Director.  
