@@ -3,6 +3,7 @@
 ### Library Director
 Jan Woodall
 317-917-5742
+(contact for Greencastle Campus Library)
 
 #### North Meridian Center Library
 Erica McFarland, Assistant Director 
